@@ -124,6 +124,10 @@ This is an eCommerce application built with **Clean Architecture**, **MVVM**, **
    }
    ```
 
+## Localization Support
+
+- **French and English Support:** The `signup` and `login` screens automatically display in French or English based on the phone's language settings. This is achieved by adding a `strings.xml` file for the French language.
+
 ## Setup Instructions
 
 1. Clone the repository.
